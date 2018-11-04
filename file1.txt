@@ -5,3 +5,8 @@ EOF
 
 heyy baby i love u but this tym i really need to try onn git first!!!
 
+hey i am gonna edit this in new branch now.
+EOF
+<<EOF
+i am gonna edit the bra
+I AM COMMITING IT AGAIN IN NEW BRANCH...
